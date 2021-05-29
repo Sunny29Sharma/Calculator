@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+}
+.container{
+    text-align: center;
+}
+table{
+    margin: auto;
+}
+input{
+    font-size: 44px;
+}
+button{
+    width :120px;
+    height: 70px;
+    border-radius: 10px;
+}
